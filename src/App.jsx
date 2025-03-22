@@ -1,10 +1,16 @@
 import './App.css'
 
 function App() {
-  
+  const buttonClick = () => {
+    console.log("Mandala World");
+  }
   return (
-    <div><h2>Divine Mandalas</h2></div>
+    <div>
+      <button onClick = {buttonClick}
+        >Submit</button>
+    </div>
   )
 }
+
 
 export default App
