@@ -1,0 +1,9 @@
+to run: npm run dev
+link kholne ke liye: ctrl+tap
+mandala world (console ma lekheko kura) show krne ke liye: right click and inspect then console button click and submit button click (button click krke andr jo humne likha hai uske liye)
+application stop krne ke liye: ctrl+c
+node module can be deleted 
+if accidently humara node modules delete ho gya then: npm install kro
+package.json delete nhi ho skta
+tab ka name (divine mandalas) kaha likha: index.html
+
