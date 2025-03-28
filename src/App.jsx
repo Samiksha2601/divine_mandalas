@@ -1,18 +1,13 @@
 import './App.css'
+import Navbar from './components/navbar'
+import Footer from './components/footer'
 
 function App() {
-  const buttonClick = () => {
-    console.log("Mandala World");
-  }
-  const buttonRefresh = () => {
-    console.log("I'm here!");
-  }
+  
   return (
     <div>
-      <button onClick = {buttonClick}
-        >Submit</button>
-        <br/>
-      <button onClick = {buttonRefresh}>Refresh</button>
+    <Navbar/>
+    <Footer/>
     </div>
   )
 }
