@@ -9,12 +9,17 @@ package.json delete nhi ho skta
 tab ka name (divine mandalas) kaha likha: index.html
 ------------------------------------------------------------------------------------------------------------------
 
-components banaya- iska kaam agr humne iske andr files bnaye to hum unko aur kisi bhi file mein bula skte 
-hai baar baar nhi bnana pdega jaise ki is case mein humara navbar and footer vo har page mein chahiye hota 
-hai to hum components ke through ab unko kisi bhi file mein include kr skte hai
-- ye saare bnane ka ek basic method jo sb mein use hoga is pehle function bnao uske andr return aur return 
-ke andr humara html ke code wagera likhte hai
-- last mein components ke export default funtion dalenge jis se hum ye component ki file ko aur file mein bula
-sake agr export nhi kiya to file udhr nhi jayegi
+components banaya- iska kaam agr humne iske andr files bnaye to hum unko aur kisi bhi 
+file mein bula skte hai baar baar nhi bnana pdega jaise ki is case mein humara navbar and 
+footer vo har page mein chahiye hota hai to hum components ke through ab unko kisi bhi file
+mein include kr skte hai
+- ye saare bnane ka ek basic method jo sb mein use hoga is pehle function bnao uske andr 
+return aur return ke andr humara html ke code wagera likhte hai
+- last mein components ke export default funtion dalenge jis se hum ye component ki file 
+ko aur file mein bula sake agr export nhi kiya to file udhr nhi jayegi
 - dusre file mein bulane ke liye: div ke andr <file ka name/> krke likhenge
 ------------------------------------------------------------------------------------------------------------------
+- upr jo second line mein basic tareeka function banane ka likha hai usme pehle hum 
+components mein hi function banayenge saara same jaise likha hai upr phir usko aage 
+app.jsx mein import krenge 
+------------------------------------------------------------------------------------------------- 
